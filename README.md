@@ -28,7 +28,11 @@
 ## Stats
 ![OyunerdeneBattulga's GitHub stats](https://github-readme-stats.vercel.app/api?username=OyunerdeneBattulga&show_icons=true&theme=nightowl&hide_border=true&count_private=true)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OyunerdeneBattulga&theme=nightowl)](https://git.io/streak-stats)
+
 
 
 ## Languages 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OyunerdeneBattulga&layout=compactshow_icons=true&theme=nightowl&count_private=true)](https://github.com/OyunerdeneBattulga/github-readme-stats)
+
+
