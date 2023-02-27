@@ -38,5 +38,3 @@
 
 
 ![OyunerdeneBattulga's Code::Stats stats](https://codestats-readme.avior.me/api?username=OyunerdeneBattulga&show_icons=true&theme=nightowl)
-
-
